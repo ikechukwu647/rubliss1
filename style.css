@@ -1,0 +1,119 @@
+.footer{
+    color: #797878;
+}
+.last{
+    text-align: center;
+}
+lo{
+    color: #a9a9a9;
+    display: flex;
+
+}
+li{
+    margin:5px;
+}
+.log{
+    text-align:center;
+}
+.plus{
+    padding: 1px 3px;
+    border:1px solid  #a9a9a9;
+     font-size: 25px;
+     align-items: center;
+     text-align: center;
+}
+.container2{
+    color:  #a9a9a9;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.create-btn{
+    margin: 30px;
+    color:#1a1a1a;
+    font-style: bold;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid  #a9a9a9;
+
+}
+.alin-item:nth-child(1){
+    height: 1px;
+    width:40%;
+    background-color: #a9a9a9;
+}
+.alin-item:nth-child(3){
+    height: 1px;
+    width:40%;
+    background-color: #a9a9a9;
+}
+
+
+.container1{
+    color: #a9a9a9;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+*{
+    box-sizing: border-box;
+    font-family: Helvetica Neue, sans-serif;
+    background-color:#ffffff;
+
+}
+.body{
+    padding:0;
+    margin:0;
+}
+.forget{
+color:#5092ff;
+font-size:13px;
+}
+.button{
+border-radius:5px;
+width:100%;
+height:42px;
+background-color:#1877f2;
+outline:none;
+border:none;
+color:rgb(247,247,247);
+font-weight:bold;
+font-size:20px;
+}
+.input{
+width:100%;
+height:38px;
+outline:none;
+ border:none;
+ 
+ border-radius:3px;
+ background-color:#f5f6f7;
+ color:#1b1b1b;
+ font-size:14px;
+}
+.container{
+    text-align: center;
+    padding:30px;
+}
+.facebook{
+    font-weight: bold;
+    color:#5092ff;
+    font-size:31px;
+    font-weight:bold;
+    
+} 
+
+ .phead{
+     background-color:#E6F2FF;
+     padding:10px;
+     color:#83878c;
+    border-bottom:1px solid #5092ff;
+     font-size:10px;
+     
+ }
+.fa-facebook{
+font-size:17px;
+color:rgb(41,98,225);
+ 
+
+}
